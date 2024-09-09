@@ -1,0 +1,25 @@
+<svg version="1.1" id="Layer_1" xmlns:x="ns_extend;" xmlns:i="ns_ai;" xmlns:graph="ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 69.8 47.2" style="enable-background:new 0 0 69.8 47.2;" xml:space="preserve">
+ <style type="text/css">
+  .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#88BB00;}
+ </style>
+ <metadata>
+  <sfw xmlns="ns_sfw;">
+   <slices>
+   </slices>
+   <sliceSourceBounds bottomLeftOrigin="true" height="47.2" width="69.8" x="-120.2" y="17">
+   </sliceSourceBounds>
+  </sfw>
+ </metadata>
+ <desc>
+  Created with Sketch.
+ </desc>
+ <g id="Symbols">
+  <g id="header-logo-desktop-regions-standard">
+   <g id="Regions-Logo">
+    <path id="pyramid" class="st0" d="M0,47.2l17.9-24.1l10.9,24.1H0z M18.5,22.3l9-12.2L32,47.2L18.5,22.3z M34.8,0l6.8,9.2l-6.8,38
+				L28.1,9.1L34.8,0z M37.8,47.2L42.2,10l9,12.2L37.8,47.2z M41.1,47.2L51.9,23l17.9,24.2H41.1z">
+    </path>
+   </g>
+  </g>
+ </g>
+</svg>
